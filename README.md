@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img align="center" alt="GIF" src="gif.gif"/>
+<img align="center" alt="GIF" src="todo.gif"/>
 
 ## Getting Started
 
